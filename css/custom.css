@@ -1,0 +1,48 @@
+body{
+    background: #1192d3;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    position: relative;
+    color: #fff;
+    font: 13px 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+ul{
+    margin-top: 50px;
+    padding: 0px;
+}
+li{
+    float: left;
+    margin: 0px 10px;
+    list-style: none;
+    text-align: center;
+    margin-bottom: 50px
+}
+li span{
+    display: block;
+    margin-bottom: 10px;
+}
+i{
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+h4{
+    margin: 0px
+}
+#weather{
+    display: block;
+    margin: 0 auto;
+    max-width: 250px;
+    padding-top: 40px;
+}
+#weather div{
+    height: 50px;
+}
+#weather i {
+    float: left;
+    min-width: 70px;
+    text-align: left;
+}
+#weather span {
+    line-height: 35px;
+}
